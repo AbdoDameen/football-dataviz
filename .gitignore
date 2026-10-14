@@ -1,0 +1,17 @@
+# StatsBomb open data (downloaded, not committed)
+data/cache/
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Matplotlib cache (kept in-project because the home cache may not be writable)
+.mplcache/
+
+# Generated figures are committed deliberately; uncomment to ignore instead.
+# figures/
+
+# OS
+.DS_Store
